@@ -1,0 +1,12 @@
+# Compiled class file
+*.class
+
+*.idea
+*.iml
+*.nar
+*.ear
+*.zip
+*.tar.gz
+*.rar
+
+
